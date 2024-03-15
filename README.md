@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**jose-iv-austria/jose-iv-austria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Jose S. Austria IV
 
-Here are some ideas to get you started:
+I'm a Computer Engineering student with a passion for technology. I currently specialize in software development and project management. I'm dedicated to solving problems creatively and delivering high-quality results.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills and Knowledge
+
+- Programming Languages (C++, Python, Java, HTML, CSS, JavaScript, PHP)
+- Advance Engineering Mathematics
+- Project Management (Scrum/Agile)
+
+## 💡 My Interests
+
+- Digital Design
+- Math and Science
+- Software Development
+- FPS Games & Anime
+
+## 🌍 Find Me Online
+
+- [Facebook](https://www.facebook.com/jivaustria)
+- [LinkedIn](https://www.linkedin.com/in/jose-iv-a-9520ab250/)
